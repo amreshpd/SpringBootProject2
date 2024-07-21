@@ -1,0 +1,51 @@
+2024-06-02 02:00:14,407 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 7 class path changes (0 additions, 6 deletions, 1 modification)
+2024-06-02 02:00:14,412 [Thread-87] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:00:14,904 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Starting LoggerProject02Application using Java 21.0.2 with PID 3216 (D:\spring boot practice\LoggerProject02\target\classes started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:00:14,904 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Starting LoggerProject02Application using Java 21.0.2 with PID 3216 (D:\spring boot practice\LoggerProject02\target\classes started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:00:14,906 [restartedMain] DEBUG com.nt.LoggerProject02Application                  - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:00:14,906 [restartedMain] DEBUG com.nt.LoggerProject02Application                  - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:00:14,907 [restartedMain] INFO  com.nt.LoggerProject02Application                  - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:00:14,907 [restartedMain] INFO  com.nt.LoggerProject02Application                  - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:00:15,397 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8082 (http)
+2024-06-02 02:00:15,398 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:00:15,399 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-06-02 02:00:15,399 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-02 02:00:15,448 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-06-02 02:00:15,449 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 532 ms
+2024-06-02 02:00:15,537 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer                 - Unable to start LiveReload server
+2024-06-02 02:00:15,554 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:00:15,569 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8082 (http) with context path '/'
+2024-06-02 02:00:15,575 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Started LoggerProject02Application in 0.968 seconds (process running for 2743.573)
+2024-06-02 02:00:15,575 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Started LoggerProject02Application in 0.968 seconds (process running for 2743.573)
+2024-06-02 02:00:15,580 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-06-02 02:00:18,001 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2024-06-02 02:00:18,006 [Thread-91] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:00:18,125 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Starting LoggerProject02Application using Java 21.0.2 with PID 3216 (D:\spring boot practice\LoggerProject02\target\classes started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:00:18,125 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Starting LoggerProject02Application using Java 21.0.2 with PID 3216 (D:\spring boot practice\LoggerProject02\target\classes started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:00:18,126 [restartedMain] DEBUG com.nt.LoggerProject02Application                  - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:00:18,126 [restartedMain] DEBUG com.nt.LoggerProject02Application                  - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:00:18,127 [restartedMain] INFO  com.nt.LoggerProject02Application                  - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:00:18,127 [restartedMain] INFO  com.nt.LoggerProject02Application                  - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:00:18,402 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8082 (http)
+2024-06-02 02:00:18,407 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:00:18,408 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-06-02 02:00:18,408 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-02 02:00:18,434 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-06-02 02:00:18,435 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 304 ms
+2024-06-02 02:00:18,528 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer                 - Unable to start LiveReload server
+2024-06-02 02:00:18,537 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:00:18,544 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8082 (http) with context path '/'
+2024-06-02 02:00:18,549 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Started LoggerProject02Application in 0.46 seconds (process running for 2746.548)
+2024-06-02 02:00:18,549 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Started LoggerProject02Application in 0.46 seconds (process running for 2746.548)
+2024-06-02 02:00:18,552 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-06-02 02:00:42,174 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [com.nt.LoggerProject02ApplicationTests]: LoggerProject02ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-06-02 02:00:42,366 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration com.nt.LoggerProject02Application for test class com.nt.LoggerProject02ApplicationTests
+2024-06-02 02:00:42,678 [main] INFO  o.s.b.d.r.RestartApplicationListener               - Restart disabled due to context in which it is running
+2024-06-02 02:00:43,624 [main] INFO  com.nt.LoggerProject02ApplicationTests             - Starting LoggerProject02ApplicationTests using Java 21.0.2 with PID 7016 (started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:00:43,624 [main] INFO  com.nt.LoggerProject02ApplicationTests             - Starting LoggerProject02ApplicationTests using Java 21.0.2 with PID 7016 (started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:00:43,625 [main] DEBUG com.nt.LoggerProject02ApplicationTests             - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:00:43,625 [main] DEBUG com.nt.LoggerProject02ApplicationTests             - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:00:43,627 [main] INFO  com.nt.LoggerProject02ApplicationTests             - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:00:43,627 [main] INFO  com.nt.LoggerProject02ApplicationTests             - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:00:49,221 [main] INFO  com.nt.LoggerProject02ApplicationTests             - Started LoggerProject02ApplicationTests in 6.562 seconds (process running for 8.721)
+2024-06-02 02:00:49,221 [main] INFO  com.nt.LoggerProject02ApplicationTests             - Started LoggerProject02ApplicationTests in 6.562 seconds (process running for 8.721)

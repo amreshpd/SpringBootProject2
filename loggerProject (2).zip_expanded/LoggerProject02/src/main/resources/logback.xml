@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+
+
+
+    <appender name="RollingFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>MyApp1.log</file> <!-- The name of the log file -->         
+         <encoder>
+             <pattern>%d [%thread] %-5level %-50logger{40} - %msg%n</pattern>
+         </encoder>
+    
+	
+	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+             <fileNamePattern>MyApp1
+             .%d{yyyy-MM-dd HH-mm}.log</fileNamePattern> <!-- Pattern for archived log files -->
+             <maxHistory>10</maxHistory> <!-- Maximum number of archived log files to keep -->
+     		<totalSizeCap>3GB</totalSizeCap>
+      </rollingPolicy>
+      </appender>
+
+    <!-- Define the appenders  consoler appender-->
+    <appender name="Console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+           <pattern>%d [%thread] %-5level %-50logger{40} - %msg %n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="RollingFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>MyApp.log</file> <!-- The name of the log file -->         
+         <encoder>
+             <pattern>%d [%thread] %-5level %-50logger{40} - %msg%n</pattern>
+         </encoder>
+    
+	
+	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+             <fileNamePattern>MyApp.%d{yyyy-MM-dd HH-mm}.log</fileNamePattern> <!-- Pattern for archived log files -->
+             <maxHistory>10</maxHistory> <!-- Maximum number of archived log files to keep -->
+     		<totalSizeCap>3GB</totalSizeCap>
+      </rollingPolicy>
+      
+      
+       </appender>
+       <root level="INFO">
+       <appender-ref ref="Console"/>
+        <appender-ref ref="RollingFile"/>
+       </root>
+
+	 <logger name="com.nt" level="DEBUG">
+       <appender-ref ref="Console"/>
+        <appender-ref ref="RollingFile"/>
+       </logger>
+
+</configuration>

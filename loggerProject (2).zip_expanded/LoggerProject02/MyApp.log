@@ -1,0 +1,20 @@
+2024-06-02 02:02:51,118 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2024-06-02 02:02:51,197 [Thread-95] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:02:51,948 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Starting LoggerProject02Application using Java 21.0.2 with PID 3216 (D:\spring boot practice\LoggerProject02\target\classes started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:02:51,948 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Starting LoggerProject02Application using Java 21.0.2 with PID 3216 (D:\spring boot practice\LoggerProject02\target\classes started by DELL in D:\spring boot practice\LoggerProject02)
+2024-06-02 02:02:51,949 [restartedMain] DEBUG com.nt.LoggerProject02Application                  - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:02:51,949 [restartedMain] DEBUG com.nt.LoggerProject02Application                  - Running with Spring Boot v3.3.0, Spring v6.1.8
+2024-06-02 02:02:51,949 [restartedMain] INFO  com.nt.LoggerProject02Application                  - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:02:51,949 [restartedMain] INFO  com.nt.LoggerProject02Application                  - No active profile set, falling back to 1 default profile: "default"
+2024-06-02 02:02:52,810 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8082 (http)
+2024-06-02 02:02:52,817 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:02:52,818 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-06-02 02:02:52,818 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-02 02:02:52,908 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-06-02 02:02:52,908 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 956 ms
+2024-06-02 02:02:53,079 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer                 - Unable to start LiveReload server
+2024-06-02 02:02:53,085 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8082"]
+2024-06-02 02:02:53,100 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8082 (http) with context path '/'
+2024-06-02 02:02:53,113 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Started LoggerProject02Application in 1.443 seconds (process running for 2901.111)
+2024-06-02 02:02:53,113 [restartedMain] INFO  com.nt.LoggerProject02Application                  - Started LoggerProject02Application in 1.443 seconds (process running for 2901.111)
+2024-06-02 02:02:53,113 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
