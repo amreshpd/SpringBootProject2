@@ -1,0 +1,36 @@
+#normal value
+emp:
+ nt: 
+  name: Devika
+  id: 123456
+  
+ #array type
+  favcolors:
+    - red
+    - green
+    - Blue
+ #List
+  nickName: 
+       - Rohit
+       - Devu
+       - Kaju
+       - ayush
+  
+#Set  
+  contacts:
+     - 789456123
+     - 145236789
+     - 124578966
+     - 147852369 
+
+#Map
+  idDetails: 
+       name: Rohit
+       Adhar: 45178263
+       Id: 4785Art
+  company:
+       id: A123B456
+       name: Devu
+       addrs: Hyderabad     
+     
+     
