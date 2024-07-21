@@ -1,0 +1,11 @@
+cust: 
+   info:
+     id: 123
+     name: Amresh
+     mobile: 8757385814
+     department: CSE
+---
+#company
+cust: 
+ info: 
+  id: 124
