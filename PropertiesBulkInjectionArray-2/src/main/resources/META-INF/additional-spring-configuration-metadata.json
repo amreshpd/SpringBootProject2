@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "org.nt.owners[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nt.owners[0]'"
+  },
+  {
+    "name": "org.nt.phones[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nt.phones[0]'"
+  }
+]}

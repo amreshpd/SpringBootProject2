@@ -1,0 +1,23 @@
+org:
+  nt:
+    branches:
+    - hyd
+    - patna
+    - kolkata
+    idDetails:
+      id: 12
+      name: ramesh
+      pincode: 821104
+    license:
+      id: 123
+      name: Devika
+      pass-Number: 7784566
+    owners:
+    - rayudu
+    - suresh
+    phones:
+    - 777777
+    - 888888
+spring:
+  application:
+    name: PropertiesBulkInjectionArray-2
